@@ -170,7 +170,7 @@ scripts and vanilla SQLAlchemy scripts. Keep an eye out for minor errors that
 arise and refer back to the [Flask-SQLAlchemy documentation][flask_sqla] as
 needed.
 
-Run `python seed.py` from the `server/` directory to seed the database.
+Run `pythonseed.py` from the `server/` directory to seed the database.
 
 ***
 
